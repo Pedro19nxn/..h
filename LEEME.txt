@@ -1,0 +1,6 @@
+PON AQUÍ TU CANCIÓN
+-------------------
+1. Copia tu archivo .mp3 en esta carpeta (public/).
+2. Abre src/config.ts y escribe el nombre en:  cancion.archivo
+   Ejemplo:  archivo: "musica.mp3"
+3. Si usas el archivo ya construido (dist/), deja el .mp3 al lado de index.html.
